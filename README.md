@@ -4,7 +4,7 @@ This zsh plugin enables a number of aliases allowing `exa`, to act as a drop-in
 replacement for `ls` and `tree`.
 
 This plugin is inspired by [MohamedElashri/exa-zsh](https://github.com/MohamedElashri/exa-zsh)
-and [zpm-zsh/ls](https://github.com/zpm-zsh/ls)ls]
+and [zpm-zsh/ls](https://github.com/zpm-zsh/ls)
 
 ## Installation
 

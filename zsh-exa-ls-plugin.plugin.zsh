@@ -1,5 +1,5 @@
 if ! (( $+commands[exa] )); then
-  print "zsh-exa-plugin: exa not found on path. Please install exa before using this plugin." >&2
+  print "zsh-exa-ls-plugin: exa not found on path. Please install exa before using this plugin." >&2
   return 1
 fi
 
