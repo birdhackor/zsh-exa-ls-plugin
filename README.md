@@ -1,5 +1,11 @@
 # zsh-exa-ls-plugin
 
+## Deprecated
+
+Due to exa is unmaintained, we use the fork eza instead of exa. Please use [birdhackor/zsh-eza-ls-plugin](https://github.com/birdhackor/zsh-eza-ls-plugin) instead.
+
+## Old Intro
+
 This zsh plugin enables a number of aliases allowing `exa`, to act as a drop-in
 replacement for `ls` and `tree`.
 
